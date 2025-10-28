@@ -12,3 +12,7 @@ fun main() {
         println("i = $i")
     }
 }
+
+fun checkNoIsPrime() {
+
+}
